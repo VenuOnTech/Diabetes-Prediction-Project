@@ -21,7 +21,7 @@ diabetes_prediction/
 │  
 ├── diabetes_model.pkl # Saved best model (Random Forest)  
 ├── scaler.pkl # Saved StandardScaler  
-├── Pima_Indians_Diabetes.csv # Input dataset  
+├── Pima_Indians_Diabetes_Database.csv # Input dataset  
 ├── diabetes_pipeline.ipynb # Main notebook with full pipeline  
 └── README.md # Project documentation  
 
